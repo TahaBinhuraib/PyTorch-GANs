@@ -15,7 +15,7 @@ Please feel free to play around with the code. The aim of this repository is to 
     pip install -r requirements.txt
     ```
 
-## Running the python file :snake:
+## Running the Yython File :snake:
 ``` bash
 python main.py --n_batch 64 --seed 10
 ```
