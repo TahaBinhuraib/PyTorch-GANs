@@ -1,0 +1,8 @@
+numpy
+pandas
+torch
+torchvision
+torchaudio
+absl-py
+pytorch-lightning
+
